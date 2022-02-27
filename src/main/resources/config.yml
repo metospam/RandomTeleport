@@ -1,0 +1,9 @@
+
+messages:
+  noPermission: "You don't have permission."
+  reload: "Plugin was reloaded."
+  unknownCommand: "Unknown command."
+  newLocation: "You add new location with coordinates: x: {x} y: {y} z: {z}."
+  repeatLocation: "This location already in list."
+  listEmpty: "List is empty."
+  rtp: "You teleported to location with coordinates: x: {x} y: {y} z: {z}."

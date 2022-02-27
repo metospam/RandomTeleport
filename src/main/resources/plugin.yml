@@ -1,0 +1,6 @@
+name: RandomTeleport
+version: '${project.version}'
+main: moonrisenetwork.randomteleport.RandomTeleport
+authors: [ metospam ]
+commands:
+  rtp:
